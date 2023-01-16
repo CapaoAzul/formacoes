@@ -1,0 +1,80 @@
+[
+    {
+        "Produto": "Camiseta",
+        "Preço": 19.99,
+        "Quantidade Vendida": 125,
+        "Data": "10-01-2022"
+    },
+    {
+        "Produto": "Calças",
+        "Preço": 29.99,
+        "Quantidade Vendida": 80,
+        "Data": "10-01-2022"
+    },
+    {
+        "Produto": "Sapatos",
+        "Preço": 49.99,
+        "Quantidade Vendida": 50,
+        "Data": "10-01-2022"
+    },
+    {
+        "Produto": "Notebook",
+        "Preço": 799.99,
+        "Quantidade Vendida": 15,
+        "Data": "11-01-2022"
+    },
+    {
+        "Produto": "Smartphone",
+        "Preço": 499.99,
+        "Quantidade Vendida": 20,
+        "Data": "11-01-2022"
+    },
+    {
+        "Produto": "Tablet",
+        "Preço": 349.99,
+        "Quantidade Vendida": 10,
+        "Data": "11-01-2022"
+    },
+    {
+        "Produto": "Fone de Ouvido",
+        "Preço": 99.99,
+        "Quantidade Vendida": 30,
+        "Data": "11-01-2022"
+    },
+    {
+        "Produto": "Impressora",
+        "Preço": 149.99,
+        "Quantidade Vendida": 5,
+        "Data": "11-01-2022"
+    },
+    {
+        "Produto": "TV",
+        "Preço": 999.99,
+        "Quantidade Vendida": 8,
+        "Data": "12-01-2022"
+    },
+    {
+        "Produto": "Sofá",
+        "Preço": 799.99,
+        "Quantidade Vendida": 12,
+        "Data": "12-01-2022"
+    },
+    {
+        "Produto": "Mesa",
+        "Preço": 399.99,
+        "Quantidade Vendida": 20,
+        "Data": "12-01-2022"
+    },
+    {
+        "Produto": "Cadeira",
+        "Preço": 69.99,
+        "Quantidade Vendida": 50,
+        "Data": "12-01-2022"
+    },
+    {
+        "Produto": "Cama",
+        "Preço": 349.99,
+        "Quantidade Vendida": 15,
+        "Data": "12-01-2022"
+    }
+]§
